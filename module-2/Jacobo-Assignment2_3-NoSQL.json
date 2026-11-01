@@ -1,0 +1,10 @@
+{
+  "USER": {
+    "BIRTHDATE": "1990-05-15",
+    "ROLES": ["Admin", "Employee"],
+    "DEPENDENTS": [
+      {"NAME": "Dependent 1"},
+      {"NAME": "Dependent 2"}
+    ]
+  }
+}
